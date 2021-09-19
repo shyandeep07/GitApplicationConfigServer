@@ -4,3 +4,5 @@ token.expiration_time=864000000
 token.secret=shyandeeppanchalisayanikasimachatterjee
 #Custom Login URL path
 login.url.path=/users/login
+
+school.name=School-2
